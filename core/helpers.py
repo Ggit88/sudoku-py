@@ -64,5 +64,3 @@ def findSingleValue(row,col,mat):
 	if(len(commonValues)==1):
 		return commonValues[0]
 	return 0
-
-
