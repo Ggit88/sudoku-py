@@ -6,8 +6,6 @@ import os.path
 from core import helpers
 from core import sudoku
 
-print(len(argv))
-
 if len(argv) != 3:
 	print("Two args are mandatory for sudoku command:")
 	print("1) csv file path for reading input matrix")
