@@ -35,5 +35,6 @@ python gui.py
 
 # Environment
 This project ha been tested up and running with **Python 2.7.18**.
+
 No additional modules are required so no dependency management is provided.
 
