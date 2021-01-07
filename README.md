@@ -6,6 +6,7 @@ The logic is in the **core** package, the sudoku module contains a class with re
 
 # Testing
 The **test** package contains some unit test for the core logic.
+
 From root folder is possible to execute all test modules:
 ```console 
 nosetests
